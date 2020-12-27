@@ -1,0 +1,32 @@
+{
+  "name": "codewithhanbal-extensions",
+  "displayName": "codewithHanbal-extensions",
+  "publisher": "codewithHanbal",
+  "description": "these are my favourite extensions and themes.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.52.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "coenraads.bracket-pair-colorizer-2",
+    "codewithhanbal.codestackr-theme",
+    "wesbos.theme-cobalt2",
+    "formulahendry.auto-rename-tag",
+    "equinusocio.vsc-community-material-theme",
+    "dsznajder.es7-react-js-snippets",
+    "esbenp.prettier-vscode",
+    "vscode-icons-team.vscode-icons",
+    "necraidan.winterisgone",
+    "bradlc.vscode-tailwindcss",
+    "ahmadawais.shades-of-purple",
+    "szastupov.one-dark-pale",
+    "eliverlara.andromeda",
+    "zamerick.black-ocean",
+    "oderwat.indent-rainbow",
+    "zhuangtongfa.material-theme",
+    "johnpapa.winteriscoming"
+  ]
+}
